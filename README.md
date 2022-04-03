@@ -1,3 +1,3 @@
 # cs350-ciAsst-asst-website
 
-<https://github.com/szeil/cs350-ciAsst-asst-website>
+<https://szeil.github.io/cs350-ciAsst-asst-website/>
